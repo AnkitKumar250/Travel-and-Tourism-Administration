@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TravelAndTourismManagementSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TravelAndTourismManagementSystem_jar</output-path>
+    <root id="archive" name="TravelAndTourismManagementSystem.jar">
+      <element id="module-output" name="TravelAndTourismManagementSystem" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../MyFiles/mysql-connector-j-8.0.32.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
